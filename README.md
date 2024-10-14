@@ -12,6 +12,6 @@ Users can apply a percentage discount to the total bill, allowing for special pr
 - Temporary Bill Viewing:
 The application provides a feature to view a temporary bill before finalizing the order. This allows users to review the items selected, their prices, and the total amount,
 
-- Command to execute the script:
+Command to execute the script:
 
 nasm -g -F dwarf -f elf64 -o facturation.o facturation.asm && ld -o facturation facturation.o && ./facturation
