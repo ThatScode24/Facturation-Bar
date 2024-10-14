@@ -10,7 +10,7 @@ The software allows users to generate detailed customer bills based on their ord
 Users can apply a percentage discount to the total bill, allowing for special promotions or customer loyalty rewards. The software calculates the new total after applying the discount, ensuring transparency in pricing.
 
 - Temporary Bill Viewing:
-The application provides a feature to view a temporary bill before finalizing the order. This allows users to review the items selected, their prices, and the total amount,
+The application provides a feature to view a temporary bill before finalizing the order. This allows users to review the items selected, their prices, and the total amount.
 
 Command to execute the script:
 
